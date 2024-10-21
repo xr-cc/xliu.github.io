@@ -12,5 +12,6 @@ redirect_from:
 * 2022 Winter Quarter, 2023 Winter Quarter
 
 ## Graduate Teaching Assistant, CME200/ME300A: Linear Algebra with Application to Engineering Computations
+* 
 
 ## Graduate Teaching Assistant, CME102/ENGR155A: Ordinary Differential Equations for Engineers
