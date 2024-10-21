@@ -3,6 +3,7 @@ title: "_Clumppling_: cluster matching and permutation program with integer line
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-bioinform
+excerpt: 'This paper is about ...'
 date: 2024-01-01
 venue: 'Bioinformatics'
 paperurl: 'http://xr-cc.github.io/files/Liu_2024_bioinform.pdf'
