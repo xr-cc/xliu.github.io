@@ -2,7 +2,7 @@
 title: "_Clumppling_: cluster matching and permutation program with integer linear programming"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-01-01-clumppling
+permalink: /publication/2024-01-01-bioinform
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-01-01
 venue: 'Bioinformatics'
