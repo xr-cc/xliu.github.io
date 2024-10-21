@@ -12,7 +12,7 @@ redirect_from:
 * Course materials open-sourced on [MATLAB File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/106675-advanced-matlab-for-scientific-computing)
 
 ### Graduate Teaching Assistant, [Linear Algebra with Application to Engineering Computations](https://bulletin.stanford.edu/courses/1048651)
-* CME200/ME300A (Graduate course), ICME, Stanford University
+* CME200/ME300A (graduate course), ICME, Stanford University
 * 2020 Fall, 2021 Fall
 
 ### Graduate Teaching Assistant, [Ordinary Differential Equations for Engineers](https://bulletin.stanford.edu/courses/1043151)
